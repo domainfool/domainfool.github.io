@@ -7,4 +7,4 @@ plugins:
 - jekyll-remote-theme
 github:
   zip_url: https://brandbucket.com/profile/brandmaker
-  another_url: https://opensea.io/brandmaker
+  tar_url: https://opensea.io/brandmaker
