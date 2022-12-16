@@ -5,6 +5,9 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Link to outside page](https://brandbucket.com/profile/brandmaker).
+
+Twitter link using html @ <a href="https://twitter.com/domainfool">domainfool</a>
 
 There should be whitespace between paragraphs.
 
